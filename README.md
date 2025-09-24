@@ -1,4 +1,4 @@
-# COMP9517 Project 
+# Computer Vision Project 
 ## Contributer
 - Jingyu Sun     (z5525875)
 - Mingqi Xu       (z5532071)

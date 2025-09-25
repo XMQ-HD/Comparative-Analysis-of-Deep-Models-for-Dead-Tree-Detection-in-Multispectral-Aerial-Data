@@ -1,10 +1,4 @@
 # Computer Vision Project 
-## Contributer
-- Jingyu Sun     (z5525875)
-- Mingqi Xu       (z5532071)
-- Yanbo Wang（z5603812）
-- Yucheng Liu   (z5621848)
-- Linyang Yu     (z5619437)
 
 _**This project is a computer vision project for tree segmentation. We include four models: **U-Net**, **DeepLabv3**, **Mask R-CNN**, and **PSPNet**. Each model follows a similar setup and training workflow.**_
 
